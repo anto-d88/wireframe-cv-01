@@ -1,3 +1,3 @@
 # WIREFRAME CV  
   
-![imgage](wireframe-cv-01.jpg)
+![imgage](wireframe-cv-01.PNG)
